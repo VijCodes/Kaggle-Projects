@@ -4,7 +4,7 @@ This repository contains my solutions to various Kaggle competitions and challen
 
 ## Getting Started and Usage
 
-Run the code in Kaggle Notebooks directly (free).
+Run the code in Kaggle Notebooks (free).
 
 or 
 
